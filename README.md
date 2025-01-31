@@ -27,7 +27,7 @@ This repository contains a **React-based clone** of a modern e-commerce website.
 ---
 
 ## 🌐 Hosted Link:
-Check out the live version here: [Product Store Clone](https://assgnt13.netlify.app/)
+Check out the live version here: [Product Store Clone](https://assgnt14.netlify.app/)
 
 ---
 
